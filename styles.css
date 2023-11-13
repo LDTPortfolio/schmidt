@@ -232,6 +232,12 @@ button {
   margin: 0px auto;
 }
 
+.video-section {
+  display: block;
+  text-align:center;
+  margin: 0px auto;
+}
+
 .center {
   display: flex;
   align-items: center;
