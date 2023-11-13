@@ -228,13 +228,13 @@ button {
 
 .imagecenter {
   display: block;
-  text-align:center;
+  text-align: center;
   margin: 0px auto;
 }
 
 .videosection {
   display: block;
-  text-align:center;
+  text-align: center;
   margin: 0px auto;
 }
 
@@ -259,6 +259,7 @@ main {
 
 .section {
   margin-top: 5em;
+  text-align: center;
 }
 
 .section__title {
